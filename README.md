@@ -5,9 +5,9 @@ This will be part of a mono repo of landing pages that use Framer.
 User can see different use cases of landing pages using Framer in different repos. 
 
 ### 👩‍💻Technical Details
-React
-TypeScript
-Framer 
+- React
+- TypeScript
+- Framer 
 
 ### 💻Code
 [TO DO]
