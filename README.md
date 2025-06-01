@@ -2,12 +2,12 @@
 This will be part of a mono repo of landing pages that use Framer. 
 
 ### 📋Aims of App
-User can see different use cases of landing pages using Rive in different repos. 
+User can see different use cases of landing pages using Framer in different repos. 
 
 ### 👩‍💻Technical Details
 React
 TypeScript
-Rive 
+Framer 
 
 ### 💻Code
 [TO DO]
